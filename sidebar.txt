@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gmu:home|Door43 (gmu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gmu|d43-gmu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gmu/archive/master.zip|d43-gmu.zip]]
+
+**Recent Changes**
+{{changes>ns = gmu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gmu|Ethnologue data]]
+
